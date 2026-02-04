@@ -1,0 +1,30 @@
+{
+  "name": "Premium Barbershop - Cabeleireiro em Brusque, SC",
+  "short_name": "Premium Barbershop",
+  "description": "Barbearia premium em Brusque, SC. Cortes masculinos, barbearia tradicional, produtos exclusivos.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#d97706",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/icon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/logo/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["lifestyle", "business"],
+  "lang": "pt-BR"
+}
