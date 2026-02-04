@@ -115,7 +115,7 @@ export default function TestimonialsSection() {
                 </div>
                 
                 <blockquote className="text-xl text-gray-300 mb-4 italic">
-                  "{testimonials[currentIndex].text}"
+                  &quot;{testimonials[currentIndex].text}&quot;
                 </blockquote>
                 
                 <div>
@@ -184,7 +184,7 @@ export default function TestimonialsSection() {
               </div>
               
               <p className="text-gray-400 text-sm mb-2 line-clamp-3">
-                "{testimonial.text}"
+                &quot;{testimonial.text}&quot;
               </p>
               
               <span className="text-xs text-gray-500">{testimonial.service}</span>
